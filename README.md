@@ -3,7 +3,7 @@
 This code uses the MuscularModel classes and other code to create a workstation that allows to simulate a model,
 control it via a GUI, and observe a graph that is plotted with real-time values of the model with the class _LiveGraph_.
 <p align="center">
-  <img src="https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174629356.png" class="rotate90">
+  <img src="https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174629356.png">
 </p>
 
 To simulate and view the model it uses the classes in the repository [MuscularModel](https://github.com/gubena/MuscularModel)
