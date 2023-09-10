@@ -16,7 +16,7 @@ This code comes with 2 anatomically correct models, one of the upper arm (biceps
   <img src="https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174653548.png" />
 </p>
 
-and one of the lower leg (calves, soleus and tibialis anterior)
+And one of the lower leg (calves, soleus and tibialis anterior):
 <p align="center">
   <img src="https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174723831.png" />
 </p>
