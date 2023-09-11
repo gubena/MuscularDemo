@@ -19,3 +19,8 @@ This code comes with 2 anatomically correct models, one of the upper arm (biceps
 And one of the lower leg (calves, soleus and tibialis anterior):
 
 ![](https://github.com/gubena/MuscularDemo/blob/main/images/image_2023-09-10_174723831.png)
+
+
+Here is a video explaining and demonstrating how the program works:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JX9FBb-yu1U/0.jpg)](https://www.youtube.com/watch?v=JX9FBb-yu1U)
